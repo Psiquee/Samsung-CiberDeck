@@ -108,7 +108,7 @@ La documentación completa se encuentra en la carpeta **docs/**.
 * [x] Configuración SSH
 * [x] Optimización Android
 * [x] Documentación inicial
-* [ ] Servidor NAS
+* [x] Servidor NAS
 * [ ] Integración ESP32
 * [ ] Automatización del hogar
 * [ ] Dashboard de monitoreo
