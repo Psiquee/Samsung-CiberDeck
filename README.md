@@ -69,7 +69,7 @@ Durante el desarrollo aparecieron varios desafíos técnicos:
 | Limpieza del sistema |         ✅        |
 | Banner SSH           |         ✅        |
 | Fastfetch            |         ✅        |
-| NAS                  | 🚧 En desarrollo |
+| NAS                  |         ✅ |
 | IoT / ESP32          |  📅 Planificado  |
 
 ---
